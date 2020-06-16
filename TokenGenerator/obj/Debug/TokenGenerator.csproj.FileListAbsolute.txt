@@ -1,0 +1,22 @@
+c:\users\acer vx 15 predator\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\bin\Debug\TokenGenerator.exe.config
+c:\users\acer vx 15 predator\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\bin\Debug\TokenGenerator.exe
+c:\users\acer vx 15 predator\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\bin\Debug\TokenGenerator.pdb
+c:\users\acer vx 15 predator\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.csprojResolveAssemblyReference.cache
+c:\users\acer vx 15 predator\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.Form1.resources
+c:\users\acer vx 15 predator\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.Properties.Resources.resources
+c:\users\acer vx 15 predator\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.csproj.GenerateResource.Cache
+c:\users\acer vx 15 predator\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.exe
+c:\users\acer vx 15 predator\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.pdb
+C:\Users\ACER VX 15 PREDATOR\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.licensi.resources
+C:\Users\ACER VX 15 PREDATOR\documents\visual studio 2015\Projects\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.Hello.resources
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\bin\Debug\TokenGenerator.exe.config
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.exe
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.pdb
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\bin\Debug\TokenGenerator.exe
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\bin\Debug\TokenGenerator.pdb
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.Form1.resources
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.Hello.resources
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.licensi.resources
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.Properties.Resources.resources
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.csproj.GenerateResource.Cache
+D:\Bejjo\Tugas\Project\TokenGenerator\TokenGenerator\obj\Debug\TokenGenerator.csprojResolveAssemblyReference.cache

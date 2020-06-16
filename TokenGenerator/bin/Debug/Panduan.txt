@@ -1,0 +1,6 @@
+1.Simpan kode licensi untuk setiap membuka program
+2.Token dapat dibuat satu hari sekali, reset jam 7 pagi
+3.Setiap token hanya dapat digunakan sekali diwebsite
+4.Generate token tidak selalu berhasil, 75% token bisa tergenerate
+5.Jika gagal men-generate token, coba lagi dihari yang berbeda
+6.Selengkapnya bisa tanyakan admin.
